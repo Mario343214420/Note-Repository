@@ -186,4 +186,16 @@ $ sudo apt-get install vim-gnome
 
 : 是对齐方向
 ```
+---
+* Done is better than perfect——Facebook Office
+* 完成比完美更好
+* Go big or go home——Facebook Office
+* 要么牛逼，要么滚蛋
+* Talk is cheap. Show me the code.——Linus Torvalds
+* 能说算不上什么，有本事就把你的代码给我看看
+* You build it, You run it. ——Werner Vogels 
 
+* Stay hungry Stay foolish. ——Jobs
+* 求知若饥，虚心若愚
+* Eat our own dog food. ——Term
+* dog food: 内部测试版本
